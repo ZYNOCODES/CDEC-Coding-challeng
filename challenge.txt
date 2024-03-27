@@ -1,9 +1,0 @@
-problem : Binary to decimal
-Write program that convert binary to decimal value
- Input : 101010 
- Output : the equivalent in decimal is :42
-
-
-
-
-Time : 09:00min
