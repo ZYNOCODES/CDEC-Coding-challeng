@@ -1,0 +1,11 @@
+problem : intersection
+Problem Statement and Constraints
+Given two arrays a1 & a2 , you've to return their intersectoins
+You can return the answer in any order.
+ Example : 
+       Input:
+a1=[-9,1,2,3,4,0,-2] , 
+a2=[2,8,-1,4]
+   output:
+a3=[2,4] or a3=[4,2]
+Time : 07:00min
